@@ -6,8 +6,8 @@
  *  @author         cms-lab
  *  @copyright      2014-2015 CMS-LAB
  *  @license        http://opensource.org/licenses/MIT
- *  @license terms  see info.php of this template
- *  @platform       see info.php of this template
+ *  @license terms  see info.php of this addon
+ *  @platform       see info.php of this addon
  */
 
 // include class.secure.php to protect this file and the whole CMS!

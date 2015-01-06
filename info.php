@@ -6,8 +6,8 @@
  *  @author         cms-lab
  *  @copyright      2014-2015 CMS-LAB
  *  @license        http://opensource.org/licenses/MIT
- *  @license terms  see info.php of this template
- *  @platform       see info.php of this template
+ *  @license terms  see info.php of this addon
+ *  @platform       see info.php of this addon
  */
 
 // include class.secure.php to protect this file and the whole CMS!
@@ -40,7 +40,7 @@ $module_delete	  =  true;
 $module_author    = 'cms-lab';
 $module_license   = 'http://opensource.org/licenses/MIT';
 $module_license_terms   = '-';
-$module_description = 'This module installs basic files Semantic (http://semantic-ui.com).';
+$module_description = 'This module installs basic files <a href="http://semantic-ui.com" target="_blank">Semantic UI</a>.';
 $module_guid      = 'd5423456-645e-452a-a8be-0d072a29e081';
 $module_home      = 'http://www.cms-lab.com';
 
