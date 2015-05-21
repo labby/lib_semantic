@@ -31,17 +31,4 @@ if (defined('LEPTON_PATH')) {
 
 
 
-$module_directory = 'lib_semantic';
-$module_name      = 'Semantic Library';
-$module_function  = 'library';
-$module_version   = '1.12.3.0';
-$module_platform  = '2.x';
-$module_delete	  =  true;
-$module_author    = 'cms-lab';
-$module_license   = 'http://opensource.org/licenses/MIT';
-$module_license_terms   = '-';
-$module_description = 'This module installs basic files <a href="http://semantic-ui.com" target="_blank">Semantic UI</a>.';
-$module_guid      = 'd5423456-645e-452a-a8be-0d072a29e081';
-$module_home      = 'http://www.cms-lab.com';
-
 ?>
