@@ -3,7 +3,7 @@
 /**
  *  @module      	Library Semantic
  *  @version        see info.php of this module
- *  @author         cms-lab
+ *  @author         LEPTON project
  *  @copyright      2014-2015 CMS-LAB
  *  @license        http://opensource.org/licenses/MIT
  *  @license terms  see info.php of this addon
