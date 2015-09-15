@@ -4,7 +4,7 @@
  *  @module      	Library Semantic
  *  @version        see info.php of this module
  *  @author         LEPTON project
- *  @copyright      2014-2015 CMS-LAB
+ *  @copyright      2014-2015 LEPTON project
  *  @license        http://opensource.org/licenses/MIT
  *  @license terms  see info.php of this addon
  *  @platform       see info.php of this addon
@@ -34,7 +34,7 @@ if (defined('LEPTON_PATH')) {
 $module_directory = 'lib_semantic';
 $module_name      = 'Semantic Library';
 $module_function  = 'library';
-$module_version   = '2.0.3.0';
+$module_version   = '2.1.4.0';
 $module_platform  = '2.x';
 $module_delete	  =  false;
 $module_author    = 'cms-lab';
