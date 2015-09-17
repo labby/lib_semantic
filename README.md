@@ -17,6 +17,10 @@ For details please see: http://semantic-ui.com/
 
 Go to http://semantic-ui.com/ and see what to do
 
+#### Notice
+
+Lib_Semantic is from release 2.1.4.0 part of LEPTON package.
+
 [1]: http://lepton-cms.org "LEPTON CMS"
 [2]: http://www.lepton-cms.com/lepador/libraries/lib_semantic.php
 
